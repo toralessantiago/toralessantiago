@@ -2,9 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0F172A,100:34D399&text=Santiago%20Torales&fontSize=42&fontColor=ffffff"/>
 
-# Santiago Torales
-
-### Full Stack Developer
+# Full Stack Developer
+ 
 
 
 </div>
