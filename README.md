@@ -57,5 +57,5 @@ Actualmente curso la **Tecnicatura en Programación en la UNAHUR**, combinando u
 
 ### 📫 ¿Cómo contactarme?
 
-* 💼 **Portafolio / Web:** *(Tu enlace de portfolio)*
-* 🔗 **LinkedIn:** [Tu Perfil de LinkedIn](https://linkedin.com)
+* 💼 **Portafolio:** *https://santiagotorales.vercel.app/*
+* 🔗 **LinkedIn:** 
