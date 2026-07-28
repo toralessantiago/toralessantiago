@@ -1,18 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:3B82F6,100:06B6D4&text=Santiago%20Torales&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:34D399&text=Santiago%20Torales&fontSize=46&fontColor=ffffff&animation=fadeIn"/>
 
 # 👋 Hola, soy Santiago Torales
 
-### 💻 Full Stack Developer | React • Node.js • Java
+### Full Stack Developer • React • Node.js • Java
 
-<p>
-Apasionado por el desarrollo web, el diseño de interfaces modernas y la creación de aplicaciones escalables.
-</p>
-
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=3000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Java;Siempre+aprendiendo+nuevas+tecnologías;Construyendo+proyectos+que+marcan+la+diferencia"/>
-</p>
+> *"Empecé programando por curiosidad y hoy disfruto crear aplicaciones web donde puedo combinar lógica, diseño y resolución de problemas."*
 
 </div>
 
@@ -20,48 +14,45 @@ Apasionado por el desarrollo web, el diseño de interfaces modernas y la creaci�
 
 # 🚀 Sobre mí
 
-🎓 Estudiante de **Tecnicatura Universitaria en Programación** en la **UNAHUR**.
+Actualmente estudio la **Tecnicatura Universitaria en Programación** en la **Universidad Nacional de Hurlingham (UNAHUR)**.
 
-💻 Me apasiona desarrollar aplicaciones web modernas utilizando tecnologías tanto del frontend como del backend.
+Me gusta desarrollar aplicaciones web completas, desde la lógica del servidor hasta interfaces modernas, intuitivas y bien diseñadas.
 
-⚙️ Disfruto diseñar arquitecturas escalables, escribir código limpio y resolver problemas complejos.
+Siempre intento que cada proyecto sea una oportunidad para aprender algo nuevo, escribir un mejor código y seguir creciendo como desarrollador.
 
-🖥️ También tengo conocimientos en hardware, optimización de sistemas y reparación de computadoras.
-
-📚 Actualmente sigo aprendiendo nuevas tecnologías para convertirme en un desarrollador cada vez más completo.
+Además del desarrollo web, también disfruto el hardware, la optimización de equipos y resolver problemas técnicos.
 
 ---
 
-# 🕸️ Un poco de mí
+# 🕷️ Un poco sobre mí
 
 <table>
 <tr>
 
-<td width="55%">
+<td width="60%">
 
-## 🎯 Intereses
+### Intereses
 
 - 💻 Desarrollo Full Stack
 - 🎨 UI / UX
 - ⚡ Optimización y rendimiento
 - 🖥️ Hardware
 - 🤖 Inteligencia Artificial
-- 🌐 Arquitectura Web
 
-## 🎮 Hobbies
+### Fuera del código
 
 - 🥊 Kickboxing
-- ⚽ Fútbol
-- 🎧 Escuchar música mientras programo
-- 🕷️ Fan de Spider-Man
-- 🎮 Videojuegos
-- ☕ Café + Código
+- 💚 Hincha de River Plate
+- 🐐 Fan del fútbol de Lionel Messi
+- 🕷️ Spider-Man
+- 🎧 Música mientras programo
+- ☕ Café
 
 </td>
 
-<td width="45%" align="center">
+<td align="center">
 
-<img src="assets/spiderman.gif" width="330"/>
+<img src="assets/spiderman.gif" width="280"/>
 
 </td>
 
@@ -70,100 +61,23 @@ Apasionado por el desarrollo web, el diseño de interfaces modernas y la creaci�
 
 ---
 
-# 💻 Stack Tecnológico
+# 💻 Tecnologías
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,mongodb,mysql,html,css,tailwind,bootstrap,vite,docker,git,github,vscode,figma,postman&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,java,mongodb,mysql,tailwind,bootstrap,vite,docker,git,github,vscode,postman,figma&theme=dark"/>
 
 </div>
 
 ---
 
-# 🛠️ Herramientas
+# 📊 GitHub
 
 <div align="center">
 
-| Desarrollo | Backend | DevOps |
-|------------|---------|---------|
-| VS Code | Node.js | Docker |
-| Git | Express | Render |
-| GitHub | MongoDB | Vercel |
-| Postman | MySQL | Linux |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=toralessantiago&show_icons=true&theme=transparent&hide_border=true&title_color=34D399&text_color=CBD5E1&icon_color=34D399"/>
 
-</div>
-
----
-
-# ⭐ Proyectos Destacados
-
-## 🌐 Portfolio Personal
-
-> Mi sitio web donde muestro proyectos, experiencia y tecnologías.
-
-🔗 **Demo:** https://santiagotorales.vercel.app
-
----
-
-## 📱 AntiSocial Network
-
-Red social Full Stack desarrollada con:
-
-- React
-- TypeScript
-- Node.js
-- Express
-- MongoDB
-- Redis
-
----
-
-## 🛒 E-commerce
-
-Aplicación completa con:
-
-- React
-- Context API
-- Responsive Design
-- Carrito
-- Filtros
-- Detalle de productos
-
----
-
-# 📈 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=toralessantiago&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toralessantiago&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=toralessantiago&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toralessantiago&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=toralessantiago&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toralessantiago&layout=compact&theme=transparent&hide_border=true&title_color=34D399&text_color=CBD5E1"/>
 
 </div>
 
@@ -173,13 +87,21 @@ Aplicación completa con:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-3B82F6?style=for-the-badge)](https://santiagotorales.vercel.app)
+<a href="https://santiagotorales.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-34D399?style=for-the-badge&logo=vercel&logoColor=0F172A"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/santiagotorales)
+<a href="https://www.linkedin.com/in/santiagotorales/">
+<img src="https://img.shields.io/badge/LinkedIn-34D399?style=for-the-badge&logo=linkedin&logoColor=0F172A"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/toralessantiago)
+<a href="https://github.com/toralessantiago">
+<img src="https://img.shields.io/badge/GitHub-34D399?style=for-the-badge&logo=github&logoColor=0F172A"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:toralessantiago885@gmail.com)
+<a href="mailto:toralessantiago885@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-34D399?style=for-the-badge&logo=gmail&logoColor=0F172A"/>
+</a>
 
 </div>
 
@@ -187,14 +109,6 @@ Aplicación completa con:
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=toralessantiago&style=for-the-badge&color=3B82F6)
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:3B82F6,100:06B6D4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,100:34D399"/>
 
 </div>
