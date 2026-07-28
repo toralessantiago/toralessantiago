@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:34D399&text=Santiago%20Torales&fontSize=46&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0F172A,100:34D399&text=Santiago%20Torales&fontSize=42&fontColor=ffffff"/>
 
-# 👋 Hola, soy Santiago Torales
+# Santiago Torales
 
 ### Full Stack Developer • React • Node.js • Java
 
@@ -10,58 +10,15 @@
 
 </div>
 
----
-
-# 🚀 Sobre mí
+<br>
 
 Actualmente estudio la **Tecnicatura Universitaria en Programación** en la **Universidad Nacional de Hurlingham (UNAHUR)**.
 
-Me gusta desarrollar aplicaciones web completas, desde la lógica del servidor hasta interfaces modernas, intuitivas y bien diseñadas.
-
-Siempre intento que cada proyecto sea una oportunidad para aprender algo nuevo, escribir un mejor código y seguir creciendo como desarrollador.
-
-Además del desarrollo web, también disfruto el hardware, la optimización de equipos y resolver problemas técnicos.
+Me gusta desarrollar aplicaciones web completas, cuidando tanto la lógica del backend como la experiencia del usuario. Siempre intento que cada proyecto sea una oportunidad para aprender algo nuevo y escribir un mejor código.
 
 ---
 
-# 🕷️ Un poco sobre mí
-
-<table>
-<tr>
-
-<td width="60%">
-
-### Intereses
-
-- 💻 Desarrollo Full Stack
-- 🎨 UI / UX
-- ⚡ Optimización y rendimiento
-- 🖥️ Hardware
-- 🤖 Inteligencia Artificial
-
-### Fuera del código
-
-- 🥊 Kickboxing
-- 💚 Hincha de River Plate
-- 🐐 Fan del fútbol de Lionel Messi
-- 🕷️ Spider-Man
-- 🎧 Música mientras programo
-- ☕ Café
-
-</td>
-
-<td align="center">
-
-<img src="assets/spiderman.gif" width="280"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 💻 Tecnologías
+## Tecnologías
 
 <div align="center">
 
@@ -71,19 +28,39 @@ Además del desarrollo web, también disfruto el hardware, la optimización de e
 
 ---
 
-# 📊 GitHub
+## Actualmente
+
+- 🎓 Tecnicatura Universitaria en Programación (UNAHUR)
+- 💻 Desarrollando proyectos Full Stack
+- 🌱 Aprendiendo nuevas tecnologías y buenas prácticas
+- ⚙️ Interesado en arquitectura, rendimiento y experiencia de usuario
+
+---
+
+## Más allá del código
+
+- 🥊 Kickboxing
+- 💚 River Plate
+- 🐐 Lionel Messi
+- 🖥️ Hardware y armado de PCs
+- 🕷️ Spider-Man
+- 🎧 Música mientras programo
+
+---
+
+## GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=toralessantiago&show_icons=true&theme=transparent&hide_border=true&title_color=34D399&text_color=CBD5E1&icon_color=34D399"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=toralessantiago&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toralessantiago&layout=compact&theme=transparent&hide_border=true&title_color=34D399&text_color=CBD5E1"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toralessantiago&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📫 Contacto
+## Contacto
 
 <div align="center">
 
@@ -105,7 +82,7 @@ Además del desarrollo web, también disfruto el hardware, la optimización de e
 
 </div>
 
----
+<br>
 
 <div align="center">
 
