@@ -4,7 +4,7 @@
 
 # Santiago Torales
 
-### Full Stack Developer • React • Node.js • Java
+### Full Stack Developer
 
 
 </div>
