@@ -21,10 +21,11 @@ Me gusta desarrollar aplicaciones web completas, cuidando tanto la lógica del b
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,java,mongodb,mysql,tailwind,bootstrap,docker,git,github&theme=dark"/>
-<p align="center">
 
+<p align="center">
 TypeScript • JavaScript • React • Node.js • Express • Java • MongoDB • MySQL • Tailwind CSS • Bootstrap • Docker • Git • GitHub
 
+</sub>
 </p>
 </div>
 
