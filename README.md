@@ -38,7 +38,7 @@ Me gusta desarrollar aplicaciones web completas, cuidando tanto la lógica del b
 ## Más allá del código
 
 - 🥊 Kickboxing
-- 💚 River Plate
+- ❤️ River Plate
 - 🐐 Lionel Messi
 - 🖥️ Hardware y armado de PCs
 - 🕷️ Spider-Man
