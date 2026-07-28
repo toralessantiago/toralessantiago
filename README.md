@@ -75,9 +75,6 @@ TypeScript • JavaScript • React • Node.js • Express • Java • MongoDB
 <img src="https://img.shields.io/badge/LinkedIn-34D399?style=for-the-badge&logo=linkedin&logoColor=0F172A"/>
 </a>
 
-<a href="https://github.com/toralessantiago">
-<img src="https://img.shields.io/badge/GitHub-34D399?style=for-the-badge&logo=github&logoColor=0F172A"/>
-</a>
 
 <a href="mailto:toralessantiago885@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-34D399?style=for-the-badge&logo=gmail&logoColor=0F172A"/>
