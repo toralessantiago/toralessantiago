@@ -6,7 +6,6 @@
 
 ### Full Stack Developer • React • Node.js • Java
 
-> *"Empecé programando por curiosidad y hoy disfruto crear aplicaciones web donde puedo combinar lógica, diseño y resolución de problemas."*
 
 </div>
 
