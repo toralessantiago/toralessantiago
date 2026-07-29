@@ -50,6 +50,7 @@ TypeScript • JavaScript • React • Node.js • Express • Java • MongoDB
 - 🕷️ Spider-Man
 - 🎧 Música mientras programo
 
+---
 
 ## Contacto
 
